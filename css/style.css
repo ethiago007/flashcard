@@ -16,3 +16,15 @@
 .methods {
     display: none;
 }
+.arguments {
+    display: none;
+}
+.parameters {
+    display: none;
+}
+.return {
+    display: none;
+}
+.chaining-methods {
+    display: none;
+}

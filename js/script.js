@@ -21,4 +21,18 @@ $(document).ready(function () {
     $(".clickable#met").click(function () {
         $(".methods").toggle();
     });
+    $(".clickable#arg").click(function () {
+        $(".arguments").toggle();
+    });
+    $(".clickable#par").click(function () {
+        $(".parameters").toggle();
+    });
+    $(".clickable#ret").click(function () {
+        $(".return").toggle();
+    });
+    $(".clickable#chain").click(function () {
+        $(".chaining-methods").toggle();
+    });
+
+
 });
