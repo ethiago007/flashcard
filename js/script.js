@@ -36,9 +36,9 @@ $(document).ready(function () {
     $(".clickable#str").click(function () {
         $(".strings").slideToggle(300);
     });
-    $(".clickable#boo").click(function () {
-        $(".Boolean").slideToggle(300);
-    });
+   // $(".clickable#boo").click(function () {
+     //   $(".Boolean").slideToggle(300);
+    //});
     $(".clickable#boo").click(function () {
         $(".Boolean").slideToggle(300);
     });
@@ -53,6 +53,15 @@ $(document).ready(function () {
     });
     $(".clickable#ale").click(function () {
         $(".alert").slideToggle(300)
+    });
+    $(".clickable#com").click(function () {
+        $(".comments").slideToggle(300)
+    });
+    $(".clickable#jque").click(function () {
+        $(".jquery").slideToggle(300)
+    });
+    $(".clickable#att").click(function () {
+        $(".attribute").slideToggle(300)
     });
         
         

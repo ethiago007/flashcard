@@ -46,3 +46,26 @@
 .alert {
     display: none;
 }
+.comments {
+    display: none;
+}
+.jquery {
+    display: none;
+}
+.attribute {
+    display: none;
+}
+.boy {
+    padding-left: 100px;
+}
+h1 {
+    text-align: center;
+    color: chocolate;
+    padding-top: 20px;
+}
+body {
+    background-color: khaki;
+}
+.full {
+    padding-top: 80px;
+}
