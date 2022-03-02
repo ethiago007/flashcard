@@ -15,7 +15,7 @@ The site contains information about javascript and jQuery. It will be of great h
 ### KNOWN BUGS
 * NONE
 ## WEBPAGE LINK
-https://ethiago007.github.io/lastproject
+https://ethiago007.github.io/flashcard/
 ## CONTACT INFORMATION
 * +2349064252791 (calls and WhatsApp)
 * mohammedkamaldeen204@gmail.com
